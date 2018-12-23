@@ -1,0 +1,22 @@
+{
+  "name": "w-gnol",
+  "version": "1.0.0",
+  "description": "\"# w-gnol\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nttlong/w-gnol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nttlong/w-gnol/issues"
+  },
+  "homepage": "https://github.com/nttlong/w-gnol#readme",
+  "dependencies": {
+    "n-gnol": "git+https://github.com/nttlong/n-gnol.git"
+  }
+}
